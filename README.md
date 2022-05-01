@@ -12,6 +12,7 @@ Excercises are provided in `\tasks`. Finalised lab results & discussions are pro
 (2) Automatic Differentiation
 
 (3) Optimisation
+
 (4) Implementing NNs with Pytorch and [Torchbearer](https://github.com/pytorchbearer/torchbearer)
 
 (5) Convolutional NNs
